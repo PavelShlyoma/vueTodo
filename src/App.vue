@@ -1,0 +1,20 @@
+<script setup>
+import Todo from './component/Todo.vue'
+</script>
+<template>
+  <todo />
+</template>
+
+<style>
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+</style>
