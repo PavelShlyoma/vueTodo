@@ -1,8 +1,9 @@
 <script setup>
 import Todo from './component/Todo.vue'
+import TodoOption from "@/component/TodoOption.vue";
 </script>
 <template>
-  <todo />
+  <todo-option />
 </template>
 
 <style>
